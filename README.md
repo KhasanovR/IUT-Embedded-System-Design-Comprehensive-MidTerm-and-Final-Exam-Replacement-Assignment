@@ -1,9 +1,8 @@
 # IUT-Embedded-System-Design-Comprehensive-MidTerm-and-Final-Exam-Replacement-Assignment
 
-
 ## Goal:
 
-> > Digital Alarm Clock using Atmega128 Microcontroller.
+> Digital Alarm Clock using Atmega128 Microcontroller.
 
 ## Instruction:
 
@@ -16,7 +15,9 @@
 > > * Normal time 
 > > > Line 1: year date / month day  
 > > > Line 2: hour(AM/PM), minute, second display
+
 > > > Sample:
+
 > > > ![Display Method](meta/sample_1.png)
 > 3. Alarm
 > > * Free style 
@@ -24,7 +25,9 @@
 > 4. Stop watch
 > > * Free style 
 > > * Resolution : 1/100 sec
+
 > > > Sample:
+
 > > > ![Stop watch](meta/sample_2.png)
 * Coded on Atmel studio and simulate with simulIDE
 * Atmega128
