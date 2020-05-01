@@ -38,3 +38,8 @@
 > > * Chracter LCD: PortA
 * Simulation tool : SimulIDE
 > > [![Digital Alarm Clock using Atmega128 Microcontroller](http://img.youtube.com/vi/PNlSHrDM3jo/0.jpg)](https://www.youtube.com/watch?v=PNlSHrDM3jo)
+
+
+### Deadline 
+
+Source Code will have been pushed by 2020/05/15, 11:59 PM (GMT+5)
