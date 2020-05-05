@@ -1,5 +1,17 @@
 # IUT-Embedded-System-Design-Comprehensive-MidTerm-and-Final-Exam-Replacement-Assignment
 
+## Team
+
+* #### Leader: ####
+
+  * Bokhodir Urinboev
+
+* #### Memebers: ####
+
+  * Oybek Amanov
+
+  * Rakhmatjon Khasanov
+
 ## Goal:
 
 > Digital Alarm Clock using Atmega128 Microcontroller.
