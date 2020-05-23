@@ -52,6 +52,10 @@
 > > [![Digital Alarm Clock using Atmega128 Microcontroller](http://img.youtube.com/vi/PNlSHrDM3jo/0.jpg)](https://www.youtube.com/watch?v=PNlSHrDM3jo)
 
 
-### Deadline 
+## Result
+### We provided a link for YouTube video below.
+### You can watch the demo of our code there.
+> [![Result](https://img.youtube.com/vi/zNBbukkOazI/0.jpg)](https://www.youtube.com/watch?v=zNBbukkOazI)
 
-Source Code will have been pushed by 2020/05/15, 11:59 PM (GMT+5)
+
+
